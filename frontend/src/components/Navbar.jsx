@@ -4,7 +4,7 @@ const Navbar = ({ user, onLogout }) => {
   return (
     <nav className="navbar">
       <a href="/" className="navbar-brand" onClick={(e) => e.preventDefault()}>
-        Bistro Reservation System
+        Restaurant Reservation System
       </a>
 
       {user && (

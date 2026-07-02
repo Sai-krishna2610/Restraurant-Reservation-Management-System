@@ -1,10 +1,10 @@
-# Bistro Reservation Management System
+# Restaurant Reservation Management System
 
 A full-stack web application designed for restaurant managers to control table bookings and for customers to reserve tables at custom times.
 
 ## Project Overview
 
-This repository contains the Bistro Reservation Management System. It allows customers to register, check table availability for specific dates and custom time ranges (e.g., 18:30 to 20:00), select their preferred table, and confirm reservations. The backend enforces seating capacity restrictions and a minimum 15-minute buffer between bookings on the same table. It also features a fully-fledged administrative dashboard for managers to oversee all reservations, filter bookings by date, modify reservation details, and add or delete tables.
+This repository contains the Restaurant Reservation Management System. It allows customers to register, check table availability for specific dates and custom time ranges (e.g., 18:30 to 20:00), select their preferred table, and confirm reservations. The backend enforces seating capacity restrictions and a minimum 15-minute buffer between bookings on the same table. It also features a fully-fledged administrative dashboard for managers to oversee all reservations, filter bookings by date, modify reservation details, and add or delete tables.
 
 ---
 

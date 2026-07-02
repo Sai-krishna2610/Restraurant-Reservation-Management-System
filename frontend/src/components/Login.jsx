@@ -129,7 +129,7 @@ const Login = ({ onLoginSuccess }) => {
           </>
         ) : (
           <>
-            New to Bistro?
+            New to Restaurant Reservation?
             <button 
               className="auth-toggle-btn" 
               onClick={() => { setIsRegistering(true); setError(''); }}
